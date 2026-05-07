@@ -3,7 +3,7 @@ This repository is about who I am what im interetsed doing in my future, my work
 
 # About Me
 
-I am currently working through my 2 A lavals, graphics and computer science. 
+I am currently working through my 2 A levels, graphics and computer science. 
 I am an ambitious, resilient, and hardworking individual who consistently strives to achieve the best results in everything I do. 
 I am passionate about building a successful future where I can make a positive impact on others and contribute meaningfully to society.
 
