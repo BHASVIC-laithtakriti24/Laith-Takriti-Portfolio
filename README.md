@@ -31,9 +31,12 @@ Take a look at the project: https://github.com/BHASVIC-laithtakriti24/PocketDeen
 
 to look at past projects during my time at the computer Science course:
 
-https://github.com/BHASVIC-laithtakriti24?tab=repositories
+https://github.com/repos?q=owner%3A%40me
+
 
 The contribution of other Pojects
+
+https://github.com/BHASVIC-laithtakriti24?tab=repositories
 
 # Qualifications and Certifications
 
