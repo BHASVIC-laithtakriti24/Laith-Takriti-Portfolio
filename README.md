@@ -22,7 +22,7 @@ roles, and sectors that align with my ambitions. My main focus is to complete un
 I am currently studying my A Levels, with a focus on Graphics and Computer Science. 
 Through these subjects, I am developing both creative and technical skills, as well as improving my problem-solving abilities and discipline.
 
-I just finnihed my alevel Computer Science projectm this porject was called *PocketDeen* to help muslims stay focused on their religion.
+I just finnihed my alevel Computer Science projectm this porject was called **PocketDeen** to help muslims stay focused on their religion.
 Sadly, I get didnt get to finnish it.
 
 Through this project I learnt how to code in JavaScript, CSS and HTML.
@@ -33,10 +33,13 @@ to look at past projects during my time at the computer Science course:
 
 https://github.com/BHASVIC-laithtakriti24?tab=repositories
 
+The contribution of other Pojects
+
 # Qualifications and Certifications
 
 I currently have 5 GCSE's inculding Computer Science, Maths and Physics.
 I currently just finnished with my A level Graphics and communication.
+and Law Btec.
 
 
 # Skills and Strengths
